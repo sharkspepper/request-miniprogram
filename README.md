@@ -1,3 +1,13 @@
+## 说明
+
+```
+本人只是参考学习
+摘录于：@escook/request-miniprogram
+git仓库：https://github.com/liulongbin1314/request-miniprogram.git
+```
+
+
+
 ## 安装
 
 ```bash
