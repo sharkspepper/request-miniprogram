@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:sharkspepper/request-miniprogram.git"
+    "url": "git@github.com:sharkspepper/npm-package.git"
   },
   "keywords": [
     "request",
@@ -19,7 +19,7 @@
   "author": "sharkspepper",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/sharkspepper/request-miniprogram/issues"
+    "url": "https://github.com/sharkspepper/npm-package/issues"
   },
-  "homepage": "https://github.com/sharkspepper/request-miniprogram#readme"
+  "homepage": "https://github.com/sharkspepper/npm-packagem#readme"
 }
