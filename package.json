@@ -1,0 +1,25 @@
+{
+  "name": "@sharkspepper/request-miniprogram",
+  "version": "0.1.1",
+  "description": "基于 Promise 的小程序网络请求库",
+  "main": "miniprogram_request/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:sharkspepper/request-miniprogram.git"
+  },
+  "keywords": [
+    "request",
+    "miniprogram",
+    "wx",
+    "weixin"
+  ],
+  "author": "sharkspepper",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sharkspepper/request-miniprogram/issues"
+  },
+  "homepage": "https://github.com/sharkspepper/request-miniprogram#readme"
+}
